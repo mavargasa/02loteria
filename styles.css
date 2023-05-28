@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333333;
+  }
+  
+  label {
+    display: block;
+    margin-top: 20px;
+  }
+  
+  input {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #af4c86;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
